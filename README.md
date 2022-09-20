@@ -1,6 +1,6 @@
 # MeshInstancedIndirect-GPU-Vegetation-Shader  
 
-InstancedIndirect method to render lotta grass on the gpu. 
+InstancedIndirect method to render lotta grass on the gpu for URP. 
   
 Feature:  
 1. Interactive Grass  
